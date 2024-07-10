@@ -40,7 +40,7 @@ gcloud compute instances add-tags juice-shop --tags=$SSH_INTERNAL_NETWORK_TAG --
 
 ```
 
-# <span style="color:red">In Compute Engine -> VM Instances page, click the SSH button for the bastion host. Then SSH to juice-shop by</span>
+### *** #In Compute Engine -> VM Instances page, click the SSH button for the bastion host. Then SSH to juice-shop by: ***
 
 
 
